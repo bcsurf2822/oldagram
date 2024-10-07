@@ -1,0 +1,27 @@
+body {
+  font-family: "Source Sans 3", sans-serif;
+  border: 1px solid black;
+  width: 375px;
+  margin: 0 auto;
+  background: #ededed;
+}
+
+header {
+  width: 375px;
+  height: 67px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+}
+
+.main-logo {
+  width: 127px;
+  height: 40px;
+}
+
+.avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
