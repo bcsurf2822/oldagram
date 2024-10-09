@@ -2,7 +2,8 @@ body {
   font-family: "Source Sans 3", sans-serif;
 
   width: 375px;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
   background: #ededed;
 }
 
